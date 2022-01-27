@@ -1,0 +1,8 @@
+prefix=/home/tanish/catkin_ws/devel/.private/pkg_moveit_ur5_2_config
+
+Name: pkg_moveit_ur5_2_config
+Description: Description of pkg_moveit_ur5_2_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/tanish/catkin_ws/devel/.private/pkg_cv_example
+
+Name: pkg_cv_example
+Description: Description of pkg_cv_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

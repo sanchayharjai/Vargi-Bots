@@ -1,0 +1,20 @@
+AKfycbwqWUnbFf2h9LW0zFYUplS5Xp-wNNzwX0DZ63hFRAzBMxVlqprAHMQbAw ------- webapp id
+https://script.google.com/macros/s/AKfycbwqWUnbFf2h9LW0zFYUplS5Xp-wNNzwX0DZ63hFRAzBMxVlqprAHMQbAw/exec ----- webapp url
+https://docs.google.com/spreadsheets/d/e/2PACX-1vS1uXpbWSCoycpegirwEKd2KnxBmsZHsnk2GnfjPL8UWZ5_1UIcY-LXfGeFa3O9ohQ7XYFf0eJyT6Jp/pubhtml?gid=0&single=true ----- json dashboard web app link
+
+https://spreadsheets.google.com/feeds/list/1yXkm0WBZKAY2-Rp5B2nZxm__5us9maMgjP2NGXcfbjE/1/public/full?alt=json ------ json endpoint dashboard
+
+
+
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSmOedbp98pZf5gFzFcBj3w653pftl9BotH8UD9s-oVaJRSpfzI_BDQnG3XnNfVdZHzb5Y2RD5-XLlQ/pubhtml?gid=1297868019&single=true ------- json inventory dashboard web app link
+
+
+https://spreadsheets.google.com/feeds/list/1btrOR0CGyKkHIL9vyCgq5rdPiXcIROVMNkcjyhPybDo/5/public/full?alt=json ---------- json inventory dashboard endpoint
+
+
+task 5 final
+AKfycbwqWUnbFf2h9LW0zFYUplS5Xp-wNNzwX0DZ63hFRAzBMxVlqprAHMQbAw------------------webapp id
+https://script.google.com/macros/s/AKfycbwqWUnbFf2h9LW0zFYUplS5Xp-wNNzwX0DZ63hFRAzBMxVlqprAHMQbAw/exec---------------------webapp url
+
+

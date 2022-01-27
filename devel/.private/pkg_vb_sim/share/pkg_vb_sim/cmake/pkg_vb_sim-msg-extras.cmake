@@ -1,0 +1,2 @@
+set(pkg_vb_sim_MESSAGE_FILES "/home/tanish/catkin_ws/src/vb_simulation_pkgs/pkg_vb_sim/msg/Model.msg;/home/tanish/catkin_ws/src/vb_simulation_pkgs/pkg_vb_sim/msg/LogicalCameraImage.msg;/home/tanish/catkin_ws/src/vb_simulation_pkgs/pkg_vb_sim/msg/ConveyorBeltState.msg")
+set(pkg_vb_sim_SERVICE_FILES "/home/tanish/catkin_ws/src/vb_simulation_pkgs/pkg_vb_sim/srv/vacuumGripper.srv;/home/tanish/catkin_ws/src/vb_simulation_pkgs/pkg_vb_sim/srv/conveyorBeltPowerMsg.srv;/home/tanish/catkin_ws/src/vb_simulation_pkgs/pkg_vb_sim/srv/ConveyorBeltControl.srv")

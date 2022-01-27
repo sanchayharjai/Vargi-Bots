@@ -1,0 +1,1 @@
+/home/tanish/catkin_ws/devel/.private/pkg_task3/lib/pkgconfig/pkg_task3.pc

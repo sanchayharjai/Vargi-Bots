@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tanish/catkin_ws/devel/.private/pkg_cv_example/setup.sh

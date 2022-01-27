@@ -1,0 +1,1 @@
+/home/tanish/catkin_ws/devel/.private/pkg_moveit_examples/lib/pkgconfig/pkg_moveit_examples.pc

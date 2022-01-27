@@ -1,0 +1,1 @@
+/home/tanish/catkin_ws/devel/.private/pkg_cv_example/lib/pkgconfig/pkg_cv_example.pc

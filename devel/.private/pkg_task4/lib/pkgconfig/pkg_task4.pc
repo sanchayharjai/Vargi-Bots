@@ -1,0 +1,8 @@
+prefix=/home/tanish/catkin_ws/devel/.private/pkg_task4
+
+Name: pkg_task4
+Description: Description of pkg_task4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/tanish/catkin_ws/devel/.private/pkg_task5/share/roseus/ros/pkg_task5/msg/msgRosIotResult.l

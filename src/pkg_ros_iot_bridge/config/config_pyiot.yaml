@@ -1,0 +1,15 @@
+# config_pyiot.yaml 
+# IoT Configuration config_pyiot.yaml
+config_pyiot:
+  mqtt:
+    server_url: "broker.mqttdashboard.com"        # http://www.hivemq.com/demos/websocket-client/
+    server_port: 1883
+    topic_sub: eyrc/hmritmteam/iot_to_ros
+    topic_pub: eyrc/hmritmteam/ros_to_iot
+    qos: 0
+
+    sub_cb_ros_topic:   "/eyrc/vb/hmritmteam/orders"   # ROS nodes can listed to this topic to receive data from MQTT Subscription
+
+#   google_apps:
+#     spread_sheet_id:  AKfycbyXqWPVkxXXb6t-LSqtVxWLbjG19_6qgJ7IIiZWaOqUz7JMQQ
+# # spreadsheet URL:https://docs.google.com/spreadsheets/d/1tHgzN5pRI6zEBl9Jv0-U_hb_3_jWx7maVERkHHDAL4c/edit#gid=0

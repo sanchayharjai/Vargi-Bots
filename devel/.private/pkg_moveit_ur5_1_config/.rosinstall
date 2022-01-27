@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tanish/catkin_ws/devel/.private/pkg_moveit_ur5_1_config/setup.sh

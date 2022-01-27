@@ -1,0 +1,8 @@
+prefix=/home/tanish/catkin_ws/devel/.private/pkg_moveit_examples
+
+Name: pkg_moveit_examples
+Description: Description of pkg_moveit_examples
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
